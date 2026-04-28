@@ -1,0 +1,32 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 26
+    values:
+      - Easy Lens
+      - Easy Lens/Generated Assets
+      - Easy Lens/Generated Assets/Cheek-Only_Clean_Tricolor_Paint__No_Black_Lines_.png
+      - Easy Lens/Generated Assets/Cheek-Only_Indian_Tricolor_Paint.png
+      - Easy Lens/Generated Assets/Indian_Flag_Cheeks_With_Ashoka_Chakra.png
+      - Easy Lens/Generated Assets/Symmetrical_Indian_Tricolor_Cheek_Paint.png
+      - Easy Lens/Lens Components
+      - Easy Lens/Lens Components/Adjust_5.12.lsc
+      - Easy Lens/Lens Components/Face Art_5.12.lsc
+      - Easy Lens/Lens Components/Face Events_5.12.lsc
+      - Easy Lens/Lens Components/Face Retouch_5.14.lsc
+      - Easy Lens/Lens Components/Face Sticker_5.16.0.lsc
+      - Easy Lens/Lens Components/KiraKira Sparkle_5.17.1.lsc
+      - Easy Lens/LensController 10.js
+      - Easy Lens/LensController 11.js
+      - Easy Lens/LensController 2.js
+      - Easy Lens/LensController 3.js
+      - Easy Lens/LensController 4.js
+      - Easy Lens/LensController 5.js
+      - Easy Lens/LensController 6.js
+      - Easy Lens/LensController 7.js
+      - Easy Lens/LensController 8.js
+      - Easy Lens/LensController 9.js
+      - Easy Lens/LensController.js
+      - Easy Lens/User Assets
+      - Easy Lens/User Assets/pngtree-vibrant-indian-flag-design-with-abstract-brushstrokes-png-image_20532788.png
+  options: 4
